@@ -22,4 +22,4 @@ private:
     int m_Health;
     bool m_CanFly;
     std::string m_Name;
-}
+};
