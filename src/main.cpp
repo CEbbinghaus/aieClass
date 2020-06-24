@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     printf("Hello World!\nWhat is your Name?\n>");
     char test[20];
     scanf("%20s", test);
